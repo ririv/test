@@ -29,8 +29,11 @@
   
 
 未省略 空格：[head b](file.md#head b) ×
+
 文字未省略 空格，但链接省略 空格：[head b](file.md#headb)
+
 文字省略 空格，但链接未省略 空格：[headb](file.md#head b)
+
 省略 空格：[headb](file.md#headb) ×
 
 `-` 代替链接空格：[head b](file.md#head-b)
