@@ -22,9 +22,9 @@
 
 ## 省略标点符号
 
-未省略 `.`：[head.a](file.md#head.a)
+未省略 `.`：[head.a](file.md#head.a) ×
 
-省略 `.`：[heada](file.md#heada)
+省略 `.`：[heada](file.md#heada) √
 
 
 
