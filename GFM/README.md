@@ -42,7 +42,7 @@
 
 未省略  `-`：[head-d](file.md#head-d)
 
-省略 `-`：[head-d](file.md#headd)
+省略 `-`：[headd](file.md#headd)
 
 
 
