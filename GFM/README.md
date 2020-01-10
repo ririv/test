@@ -57,7 +57,7 @@
    
 
 
-空格与 `-` 混合使用：[head d-x](file.md#head-d-x)
+空格与 `-` 混合使用：[head e-x](file.md#head-e-x)
 
   
 
