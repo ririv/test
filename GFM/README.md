@@ -1,6 +1,6 @@
 # 锚点
 
-## `.md` 后缀
+## `.md` 后缀，链接Markdown文件
 
 [file](file) ×
 
@@ -9,6 +9,14 @@
 [file#head](file#head) ×
 
 [file.md#head](file.md#head) √
+
+
+
+## 无 `.md` 后缀，链接同名文件夹下的 README.md
+
+[dir](dir)
+
+[dir#head](dir#head)
 
 
 
