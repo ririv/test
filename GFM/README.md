@@ -28,15 +28,15 @@
 
 
 
-未省略空格：[head b](file.md#head b)
+未省略 空格：[head b](file.md#head b)
 
-省略空格：[headb](file.md#headb)
+省略 空格：[headb](file.md#headb)
 
 
 
-未省略  `` `：[`headc`](file.md#`headc`)
+未省略 反引号：[`headc`](file.md#`headc`)
 
-省略 `` `：[headc](file.md#headc)
+省略 反引号：[headc](file.md#headc)
 
 
 
