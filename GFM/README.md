@@ -28,26 +28,44 @@
 
   
 
+
 未省略 空格：[head b](file.md#head b) ×
 
-文字未省略 空格，但链接省略 空格：[head b](file.md#headb)
+文字未省略 空格，但链接省略 空格：[head b](file.md#headb) ×
 
-文字省略 空格，但链接未省略 空格：[headb](file.md#head b)
+文字省略 空格，但链接未省略 空格：[headb](file.md#head b) ×
 
 省略 空格：[headb](file.md#headb) ×
 
-`-` 代替链接空格：[head b](file.md#head-b)
+`-` 代替链接空格：[head b](file.md#head-b) √
 
-
-未省略 反引号：[`headc`](file.md#`headc`)
-
-省略 反引号：[headc](file.md#headc)
+  
 
 
 
-未省略  `-`：[head-d](file.md#head-d)
+未省略 反引号：[`headc`](file.md#`headc`) ×
 
-省略 `-`：[headd](file.md#headd)
+省略 反引号：[headc](file.md#headc) √
+
+  
+
+
+未省略  `-`：[head-d](file.md#head-d) √
+
+省略 `-`：[headd](file.md#headd) ×
+
+   
+
+
+空格与 `-` 混合使用：[head d-x](file.md#head-d-x)
+
+  
+
+# 大写转换小写
+
+转换：[HEADF](file.md#headf) 
+
+未转换：[HEADF](file.md#HEADF)
 
 
 
@@ -55,9 +73,9 @@
 
 `.assets` 文件夹 √
 
-![yuki](.assets/img-1.jpg)
+![img](.assets/img-1.jpg)
 
 `assets` 文件夹 √
 
-![yuki](assets/img-2.jpg)
+![](assets/img-2.jpg)
 
