@@ -1,6 +1,8 @@
 # 锚点
 
-## `.md` 后缀，链接Markdown文件
+## `.md` 后缀
+
+### `.md` 后缀，链接Markdown文件
 
 [file](file) ×
 
@@ -12,7 +14,7 @@
 
 
 
-## 无 `.md` 后缀，链接同名文件夹下所显示的 README.md （并没有进入此文件）
+### 无 `.md` 后缀，链接同名文件夹下所显示的 README.md （并没有进入此文件）
 
 [dir](dir) √
 
@@ -57,15 +59,21 @@
    
 
 
-空格与 `-` 混合使用：[head e-x](file.md#head-e-x)
+空格与 `-` 混合使用：[head e-x](file.md#head-e-x) √
 
   
 
-# 大写转换小写
+## 大写转换小写
 
-转换：[HEADF](file.md#headf) 
+转换：[HEADF](file.md#headf) √
 
-未转换：[HEADF](file.md#HEADF)
+未转换：[HEADF](file.md#HEADF) √
+
+
+
+## 混合测试
+
+[1.2. GitHub 标题-`x`](#12-github-标题-x)
 
 
 
