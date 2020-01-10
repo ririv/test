@@ -30,7 +30,7 @@
 
 未省略空格：[head b](file.md#head b)
 
-省略空格：[heada](file.md#heada)
+省略空格：[headb](file.md#headb)
 
 
 
